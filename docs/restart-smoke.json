@@ -1,0 +1,16 @@
+{
+  "pass": true,
+  "input_mode": "Mouse",
+  "documents": [
+    {
+      "name": "TabletSmoke",
+      "objects": 50,
+      "solids": [
+        500,
+        1200,
+        500,
+        50.265482
+      ]
+    }
+  ]
+}

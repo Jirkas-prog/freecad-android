@@ -1,0 +1,31 @@
+{
+  "pass": true,
+  "version": [
+    "1",
+    "1",
+    "3"
+  ],
+  "volumes": {
+    "Body": 499.9999999999999,
+    "Body001": 1199.9999999999998,
+    "Body002": 499.9999999999999,
+    "Extrude003": 50.265482457436676
+  },
+  "file_bytes": 59754,
+  "checks": [
+    "selected multi-body Cut",
+    "excluded body unchanged",
+    "preview Cancel",
+    "face Join",
+    "offset plane",
+    "attached sketch extrusion",
+    "section edges",
+    "FCStd save/reopen",
+    "timeline visible"
+  ],
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/158.0.8113.0 Safari/537.36",
+    "crossOriginIsolated": true,
+    "JSPI": "function"
+  }
+}
