@@ -48,6 +48,9 @@ emulator**; it is not included in the release APK.
 - The release APK passed `apksigner verify` with an RSA-3072 certificate and APK
   Signature Scheme v3. It installed successfully in the test emulator. Its
   manifest requests no Internet or storage permissions.
+- The signed release opened the full FusionFlow interface and imported the
+  exported `TabletSmoke.FCStd` through Android's document picker. WebView remote
+  debugging was disabled in that release.
 
 Release signing certificate SHA-256:
 `a6560c8f9a2d5cfb1613f377ca263fe6728406679d6482d7e006b0f312701051`.
